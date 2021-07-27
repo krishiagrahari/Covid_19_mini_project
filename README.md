@@ -1,1 +1,1 @@
-# Covid_19_mini_project
+# Covid_19_prediction_project
